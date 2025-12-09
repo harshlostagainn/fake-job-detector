@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+
+# big files
+data/fake_job_postings.csv
+Models/*.pkl
