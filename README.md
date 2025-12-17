@@ -1,9 +1,9 @@
-# 🕵️‍♂️ Fake Job Posting Detector (AI + NLP)
+# Fake Job Posting Detector (AI + NLP)
 
 This project detects whether a job posting is **REAL** or **FAKE / FRAUDULENT** using
 Natural Language Processing and Machine Learning.
 
-## ✨ Features
+##  Features
 
 - Takes raw job description text as input
 - Cleans and processes text using NLP
@@ -11,7 +11,7 @@ Natural Language Processing and Machine Learning.
 - Trained on the **Kaggle Real/Fake Job Posting Prediction** dataset
 - Simple Streamlit web app interface
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - Python 3
 - Pandas, NumPy
